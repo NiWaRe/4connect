@@ -10,7 +10,7 @@ You will need QT Creator to build a playable Application Window on your chosen O
 # How to play
 1. Find an opponent
 Select if you want to start the game as Server or Client by selecting either the radio-button: server or client. 
-_Optional (Not yet implemented in GUI) use the broadcast classes to implement a simple button (the same on server and client) 
+_Optional (Not yet implemented in GUI) use the broadcast classes (**netbroadcast.cpp/hpp**) to implement a simple button (the same on server and client) 
 which automatically triggers a UDP-Broadcast-Listener and -Sender at the same time and enables automatic detection of an opponent in the local network_ 
 
 * Server Mode: Enter port number in the port field
