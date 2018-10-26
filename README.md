@@ -1,4 +1,4 @@
-# 4connect (functioning prototype)
+# 4connect (_functioning prototype_)
 A GUI-4-Connect game with multiplayer capabilities (tcp and udp) based on Qt
 
 # Getting Started
