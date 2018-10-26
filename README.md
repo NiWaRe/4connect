@@ -5,7 +5,7 @@ A GUI-4-Connect game with multiplayer capabilities (tcp and udp) based on Qt
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 # Installing
-You will need QT Creator to build a playable Application Window on your chosen OS.
+You will need <a href="https://www.qt.io/download">QT Creator</a> to build a playable Application Window on your chosen OS.
 
 # How to play
 1. Find an opponent
@@ -15,8 +15,8 @@ which automatically triggers a UDP-Broadcast-Listener and -Sender at the same ti
 
 * Server Mode: Enter port number in the port field
 * Client Mode: Enter IP address and port number of the server you want to connect with
-* IP address: localhost
-* Port: 1234
+`IP address: localhost
+ Port: 1234`
 
 2. *Click "Start Game" and _Play the 4c-Game and optionally chat with your opponent!_
 
