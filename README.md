@@ -15,10 +15,9 @@ which automatically triggers a UDP-Broadcast-Listener and -Sender at the same ti
 
 * Server Mode: Enter port number in the port field
 * Client Mode: Enter IP address and port number of the server you want to connect with
-`IP address: localhost
- Port: 1234`
+* `IP address: localhost; Port: 1234`
 
-2. *Click "Start Game" and _Play the 4c-Game and optionally chat with your opponent!_
+2. *Click "**Start Game**" and _Play the 4c-Game and optionally chat with your opponent!_
 
 # Built With
 * C++ - Used for backend
