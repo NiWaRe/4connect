@@ -31,4 +31,4 @@ which automatically triggers a UDP-Broadcast-Listener and -Sender at the same ti
 # Acknowledgments
 This project is part of the course Blockpraktikum C++ offered by the Chair of Security in Information Technology at the Technical University of Munich.
 We want to thank everyone responsible for this course giving us the opportunity to learn an object oriented programming language.
-_READ-ME with Henry He._
+_READ-ME with <a href="https://www.github.com/heliumind">Henry He</a>._
